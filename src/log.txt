@@ -1,0 +1,197 @@
+
+Bits: 0 | Real 0.011 | User: 0.008 | Sys: 0.003
+
+Bits: 1 | Real 0.011 | User: 0.006 | Sys: 0.005
+
+Bits: 2 | Real 0.019 | User: 0.008 | Sys: 0.003
+
+Bits: 3 | Real 0.011 | User: 0.008 | Sys: 0.003
+
+Bits: 4 | Real 0.011 | User: 0.009 | Sys: 0.002
+
+Bits: 5 | Real 0.012 | User: 0.008 | Sys: 0.003
+
+Bits: 6 | Real 0.011 | User: 0.009 | Sys: 0.002
+
+Bits: 7 | Real 0.012 | User: 0.008 | Sys: 0.003
+
+Bits: 8 | Real 0.012 | User: 0.009 | Sys: 0.003
+
+Bits: 9 | Real 0.012 | User: 0.008 | Sys: 0.004
+
+Bits: 10 | Real 0.012 | User: 0.008 | Sys: 0.004
+
+Bits: 11 | Real 0.012 | User: 0.007 | Sys: 0.005
+
+Bits: 12 | Real 0.011 | User: 0.007 | Sys: 0.004
+
+Bits: 13 | Real 0.011 | User: 0.010 | Sys: 0.001
+
+Bits: 14 | Real 0.011 | User: 0.009 | Sys: 0.002
+
+Bits: 15 | Real 0.012 | User: 0.010 | Sys: 0.002
+
+Bits: 16 | Real 0.012 | User: 0.008 | Sys: 0.004
+
+Bits: 17 | Real 0.011 | User: 0.009 | Sys: 0.002
+
+Bits: 18 | Real 0.011 | User: 0.005 | Sys: 0.007
+
+Bits: 19 | Real 0.011 | User: 0.008 | Sys: 0.002
+
+Bits: 20 | Real 0.011 | User: 0.007 | Sys: 0.004
+
+Bits: 21 | Real 0.011 | User: 0.010 | Sys: 0.001
+
+Bits: 22 | Real 0.011 | User: 0.008 | Sys: 0.003
+
+Bits: 23 | Real 0.011 | User: 0.006 | Sys: 0.005
+
+Bits: 24 | Real 0.018 | User: 0.017 | Sys: 0.001
+
+Bits: 25 | Real 0.018 | User: 0.016 | Sys: 0.002
+
+Bits: 26 | Real 0.018 | User: 0.014 | Sys: 0.004
+
+Bits: 27 | Real 0.017 | User: 0.014 | Sys: 0.002
+
+Bits: 28 | Real 0.020 | User: 0.015 | Sys: 0.005
+
+Bits: 29 | Real 0.024 | User: 0.016 | Sys: 0.008
+
+Bits: 30 | Real 0.055 | User: 0.048 | Sys: 0.007
+
+Bits: 31 | Real 0.056 | User: 0.053 | Sys: 0.003
+
+Bits: 32 | Real 0.056 | User: 0.048 | Sys: 0.008
+
+Bits: 33 | Real 0.057 | User: 0.052 | Sys: 0.005
+
+Bits: 34 | Real 0.057 | User: 0.049 | Sys: 0.008
+
+Bits: 35 | Real 0.105 | User: 0.093 | Sys: 0.011
+
+Bits: 36 | Real 0.106 | User: 0.096 | Sys: 0.009
+
+Bits: 37 | Real 0.105 | User: 0.092 | Sys: 0.012
+
+Bits: 38 | Real 0.525 | User: 0.502 | Sys: 0.021
+
+Bits: 39 | Real 0.509 | User: 0.474 | Sys: 0.025
+
+Bits: 40 | Real 0.505 | User: 0.465 | Sys: 0.030
+
+Bits: 41 | Real 1.281 | User: 1.215 | Sys: 0.053
+Traceback (most recent call last):
+  File "/home/david/csc-321/assignments/mod-4/src/task1.py", line 55, in <module>
+    main()
+    ~~~~^^
+  File "/home/david/csc-321/assignments/mod-4/src/task1.py", line 46, in main
+    find_collision(bit_size)
+    ~~~~~~~~~~~~~~^^^^^^^^^^
+  File "/home/david/csc-321/assignments/mod-4/src/task1.py", line 37, in find_collision
+    hashes_seen[truncated_hash] = input_str
+    ~~~~~~~~~~~^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+
+Bits: 0 | Real 0.012 | User: 0.005 | Sys: 0.007
+
+Bits: 1 | Real 0.020 | User: 0.008 | Sys: 0.004
+
+Bits: 2 | Real 0.011 | User: 0.009 | Sys: 0.002
+
+Bits: 3 | Real 0.011 | User: 0.008 | Sys: 0.003
+
+Bits: 4 | Real 0.011 | User: 0.008 | Sys: 0.003
+
+Bits: 5 | Real 0.010 | User: 0.008 | Sys: 0.002
+
+Bits: 6 | Real 0.011 | User: 0.009 | Sys: 0.002
+
+Bits: 7 | Real 0.011 | User: 0.006 | Sys: 0.005
+
+Bits: 8 | Real 0.011 | User: 0.010 | Sys: 0.001
+
+Bits: 9 | Real 0.011 | User: 0.007 | Sys: 0.004
+
+Bits: 10 | Real 0.011 | User: 0.007 | Sys: 0.004
+
+Bits: 11 | Real 0.011 | User: 0.007 | Sys: 0.004
+
+Bits: 12 | Real 0.011 | User: 0.004 | Sys: 0.007
+
+Bits: 13 | Real 0.011 | User: 0.008 | Sys: 0.003
+
+Bits: 14 | Real 0.011 | User: 0.006 | Sys: 0.004
+
+Bits: 15 | Real 0.011 | User: 0.007 | Sys: 0.003
+
+Bits: 16 | Real 0.011 | User: 0.007 | Sys: 0.004
+
+Bits: 17 | Real 0.011 | User: 0.009 | Sys: 0.002
+
+Bits: 18 | Real 0.011 | User: 0.007 | Sys: 0.004
+
+Bits: 19 | Real 0.011 | User: 0.009 | Sys: 0.002
+
+Bits: 20 | Real 0.012 | User: 0.007 | Sys: 0.005
+
+Bits: 21 | Real 0.011 | User: 0.008 | Sys: 0.003
+
+Bits: 22 | Real 0.012 | User: 0.012 | Sys: 0.000
+
+Bits: 23 | Real 0.012 | User: 0.008 | Sys: 0.004
+
+Bits: 24 | Real 0.018 | User: 0.013 | Sys: 0.005
+
+Bits: 25 | Real 0.017 | User: 0.017 | Sys: 0.000
+
+Bits: 26 | Real 0.018 | User: 0.015 | Sys: 0.003
+
+Bits: 27 | Real 0.018 | User: 0.015 | Sys: 0.003
+
+Bits: 28 | Real 0.018 | User: 0.012 | Sys: 0.006
+
+Bits: 29 | Real 0.022 | User: 0.020 | Sys: 0.002
+
+Bits: 30 | Real 0.054 | User: 0.051 | Sys: 0.003
+
+Bits: 31 | Real 0.056 | User: 0.050 | Sys: 0.006
+
+Bits: 32 | Real 0.055 | User: 0.048 | Sys: 0.007
+
+Bits: 33 | Real 0.054 | User: 0.049 | Sys: 0.005
+
+Bits: 34 | Real 0.054 | User: 0.048 | Sys: 0.006
+
+Bits: 35 | Real 0.103 | User: 0.095 | Sys: 0.008
+
+Bits: 36 | Real 0.103 | User: 0.096 | Sys: 0.007
+
+Bits: 37 | Real 0.102 | User: 0.091 | Sys: 0.011
+
+Bits: 38 | Real 0.503 | User: 0.468 | Sys: 0.028
+
+Bits: 39 | Real 0.543 | User: 0.507 | Sys: 0.026
+
+Bits: 40 | Real 0.535 | User: 0.500 | Sys: 0.024
+
+Bits: 41 | Real 1.308 | User: 1.244 | Sys: 0.051
+
+Bits: 42 | Real 2.742 | User: 2.608 | Sys: 0.116
+
+Bits: 43 | Real 2.704 | User: 2.563 | Sys: 0.124
+
+Bits: 44 | Real 5.636 | User: 5.400 | Sys: 0.209
+
+Bits: 45 | Real 7.870 | User: 7.543 | Sys: 0.292
+
+Bits: 46 | Real 7.838 | User: 7.460 | Sys: 0.343
+
+Bits: 47 | Real 7.888 | User: 7.523 | Sys: 0.330
+
+Bits: 48 | Real 11.987 | User: 11.408 | Sys: 0.505
+
+Bits: 49 | Real 11.345 | User: 10.791 | Sys: 0.485
+
+Bits: 50 | Real 62.849 | User: 60.100 | Sys: 2.529
